@@ -1,8 +1,7 @@
-class Rectangle:
-    """
-    This is a Rectangle class.
+#!/usr/bin/python3
+"""Defines a Rectangle class."""
 
-    This class is currently empty and doesn't have any attributes or methods.
-    It serves as a blueprint for a rectangle object.
-    """
+
+class Rectangle:
+    """Represent a rectangle."""
     pass
